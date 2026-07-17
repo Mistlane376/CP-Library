@@ -31,7 +31,7 @@ CP-Library/
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/你的用户名/CP-Library.git
+   git clone https://github.com/mistlane376/CP-Library.git
    cd CP-Library
    ```
 

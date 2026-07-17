@@ -6,7 +6,7 @@
 
 ### 报告问题
 
-如果你发现了问题或有改进建议，欢迎提交 [Issue](https://github.com/你的用户名/CP-Library/issues)：
+如果你发现了问题或有改进建议，欢迎提交 [Issue](https://github.com/mistlane376/CP-Library/issues)：
 
 1. 使用清晰的标题描述问题
 2. 详细说明问题的具体情况
