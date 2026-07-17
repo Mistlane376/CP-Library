@@ -1,5 +1,7 @@
 # LIS最长递增子序列
 
+$O(n \log n)$ 优化版本：
+
 ```cpp
 vector<int> LIS;
 for (int i = 1; i <= n; i++) {
@@ -10,7 +12,7 @@ for (int i = 1; i <= n; i++) {
         *idx = a[i];
     }
 }
-int ans = LIS.size();  // LIS 的长度
+cout << LIS.size() << endl;
 ```
 
 **算法说明**：
